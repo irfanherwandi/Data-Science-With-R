@@ -1,0 +1,28 @@
+#HELLO WORLD DI R 🎁
+
+"Hello World"
+
+> "Hello World"
+[1] "Hello World"
+
+#PERHITUNGAN SEDERHANA 🎁
+
+10 + 7
+
+> 10 + 7
+[1] 17
+
+#VARIABEL DALAM R 🎁
+
+a = 5
+Ini artinya variabel a diisi dengan angka 5. Selanjutnya, tambahkan lagi di baris berikutnya pada Code Editor perintah berikut ini
+
+print(a)
+Ini digunakan untuk mencetak isi variabel a.
+
+a = 5
+print(a)
+
+> a = 5
+> print(a)
+[1] 5
